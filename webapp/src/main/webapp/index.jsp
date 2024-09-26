@@ -195,9 +195,9 @@ span.psw {
             <!--text-->
             <div class="home-text" >
                 
-                <h3 style="color: white; letter-spacing: 3px;">Welcome to MITS College</h3>
+                <h3 style="color: white; letter-spacing: 3px;">Welcome to QIS College</h3>
                 <h1 style="color: white;"> Student Portal</h1>
-                <p style="color: white;">The purpose of MITS College is to prepare students with promise
+                <p style="color: white;">The purpose of QIS College is to prepare students with promise
                     to enhance their intellectual, physical, social, emotional, spiritual,
                     and artistic growth so that they may realize their power for good
                     as citizens</p>

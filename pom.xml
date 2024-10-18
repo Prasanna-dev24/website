@@ -210,7 +210,6 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-  sh sample.sh
   <scm>
     <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
     <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
@@ -223,4 +222,4 @@
   </prerequisites>
 
 </project>
-this is not an xml 
+
